@@ -1,0 +1,7 @@
+/Ventoy_ISOs/
+/Downloads/
+/Backups/
+/Tools/Temporary/
+*.iso
+*.exe
+*.zip

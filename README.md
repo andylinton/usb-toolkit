@@ -14,7 +14,7 @@ Welcome to your all-in-one IT Sysadmin USB Toolkit! This drive is organized to p
 
 For quick reference, the following cheat sheets are available in the `Docs/Cheat_Sheets/` directory:
 
-- **Linux Commands Cheat Sheet**: A comprehensive guide to essential Linux commands.
+- **Linux Commands Cheat Sheet**: A comprehensive guide to essential Linux commands. [PhoenixNAP](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 - **PowerShell Cheat Sheet**: A quick reference for common PowerShell commands and syntax.
 
 ## Usage Tips
